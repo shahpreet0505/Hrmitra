@@ -1,1 +1,1 @@
-# Hrmitra
+Hrmitra is a software for overall HR management of a company, it has different modules like employees, departments, Assets, customers, regularization, bussiness category, attendance, payroll management etc. 
